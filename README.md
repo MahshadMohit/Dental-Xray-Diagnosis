@@ -18,3 +18,8 @@ The model categorizes and bounds features into three major operational groups:
 * **Anatomical Landmarks**: Mandibular Canal, Maxillary Sinus, Retained Root, Root Piece, Permanent Teeth, Primary Teeth, TAD (Temporary Anchorage Device).
 
 <img width="1570" height="650" alt="output" src="https://github.com/user-attachments/assets/4ea9645c-22fa-4795-9d8a-e88ae49bbc34" />
+
+
+## Note
+This project also has a mini version of segmentation of carries masks, I'd be happy if you check that :)
+https://github.com/MahshadMohit/Dental-X-Rays-Caries-Segmentation
